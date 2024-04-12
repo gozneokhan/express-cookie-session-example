@@ -1,0 +1,11 @@
+{
+    "name": "express-cookie-session",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "license": "MIT",
+    "dependencies": {
+        "cookie-parser": "^1.4.6",
+        "express": "^4.19.2"
+    }
+}
